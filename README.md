@@ -10,7 +10,7 @@ http://127.0.0.1:8000/api/user/register
 
 { "user": {
     "username": "Hemant"
-	"email": "hemant.softvan@gmail.com",
+	"email": "hemant@gmail.com",
     "password": "hemant0077"
 }
 }
@@ -18,7 +18,7 @@ http://127.0.0.1:8000/api/user/register
 http://127.0.0.1:8000/api/user/login
 
 { "user": {
-    "email": "hemant.softvan@gmail.com",
+    "email": "hemant@gmail.com",
     "password": "hemant0077"
 }
 }
